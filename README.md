@@ -96,7 +96,7 @@ Stole the GitHub Page from **Ywi**
 ---
 
 ## 📬 Contact & Status Tracking
-For any questions or suggestions, status tracking join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
+For any questions or suggestions, status tracking join the Discord Server: [Achievements Discord](https://discord.gg/achievements).
 - **Discord Direct Contact**: `@sunaruqtx`  
 - **In-Game**: Whisper `Sunaru-Blackrock` (Alliance through being a community member).<br>
 Note: I don’t respond to whispers sent to Sunashare, as I receive a high volume of messages about lockouts.
