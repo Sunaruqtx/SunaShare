@@ -1,19 +1,24 @@
 # <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> SunaShare <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;">
 
-## :rocket: Getting Started
+## :rocket: How It Works
 
-1. **Join the Community**  
+1. **I Provide Lockouts**  
+   - I share pre-cleared instance lockouts for efficient mount farming
+   - All lockouts are prepared to the specified bosses
+
+2. **Request Access**  
    - **Alliance**: `/w Sunashare-Blackrock !sharing`  
    - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Community ID: `YW4aN3OH4zx` or `Z90ryXaCMM`
 
-2. **Share Lockouts**  
-   - Use `!sharing` to share your instance lockouts  
+3. **Receive Lockouts**  
+   - Use `!sharing` to receive my available lockouts  
    - Specify difficulty: `!hc` for heroic, `!nhc` for normal (default)
 
-3. **Enjoy Mount Runs!**  
-   - Receive and share lockouts for the instances listed below
+4. **Enjoy Efficient Mount Runs**  
+   - Instantly access end-bosses without clearing entire instances
+   - Farm mounts with maximum time efficiency
 
-## Lockouts:
+## Available Lockouts:
 ### Raids:
 | Instance | Difficulty | Boss | Reward |
 |----------|------------|------|--------|
@@ -32,20 +37,20 @@
 | [Tazavesh: The Veiled Market](https://www.wowhead.com/zone=13476/tazavesh-the-veiled-market) | M | So'leah | [Cartel Master's Gearglider](https://www.wowhead.com/item/186638/cartel-masters-gearglider) |
 | [Return to Karazhan](https://www.wowhead.com/zone=11162/return-to-karazhan) | M | Attumen the Huntsman | [Midnight's Eternal Reins](https://www.wowhead.com/item/142236/midnights-eternal-reins) |
 
-## <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Alliance-Specific <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;">
+## <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Alliance-Specific Lockouts <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;">
 ### Raids:
 | Instance | Difficulty | Boss | Reward |
 |----------|------------|------|--------|
 | [Battle for Dazar'Alor](https://www.wowhead.com/zone=13516/battle-of-dazaralor) | N/H | High Tinker Mekkatorque | [G.M.O.D.](https://www.wowhead.com/item/166518/g-m-o-d) |
 | [Icecrown Citadel](https://www.wowhead.com/zone=4812/icecrown-citadel) | H 25 | The Lich King | [Invincible's Reins](https://www.wowhead.com/wotlk/item/50818/invincibles-reins) |
 
-### How to ICC:
+### ICC Lockout Instructions:
 1. Set raid to **Heroic 25-player** and kill Lord Marrowgar (solo), then exit
-2. Whisper `!sharing` outside ICC (lockout will auto-set to Normal mode)
+2. Whisper `!sharing` to receive my ICC lockout
 3. Re-enter, accept lockout, teleport to Upper Spire, kill Blood-Queen Lana'thel, exit
 4. Re-enter on **Heroic 25-player** (solo), teleport to Lich King, and defeat him
 
-### Miscellaneous:
-| Feature | Command | Details |
+### Additional Services:
+| Service | Command | Details |
 |---------|---------|---------|
 | Timeless Isle Port | `!Timeless` | Quest Share: [Journey to the Timeless Isle](https://www.wowhead.com/quest/33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
