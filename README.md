@@ -8,7 +8,7 @@
 
 2. **Request Access**  
    - **Alliance**: `/w Sunashare-Blackrock !sharing`  
-   - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Community ID: `YW4aN3OH4zx` or `Z90ryXaCMM`
+   - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Community ID: `MpjoWNOIAgz` or `Z90ryXaCMM`
 
 3. **Receive Lockouts**  
    - Use `!sharing` to receive my available lockouts  
