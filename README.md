@@ -46,13 +46,13 @@
 
 ### ICC Lockout Instructions:
 1. Set raid to **Heroic 25-player** and kill Lord Marrowgar (solo), then exit
-2. Whisper `!sharing` to receive my ICC lockout
+2. Whisper `!sharing` to receive my ICC lockout **Normal 25-Player**
 3. Re-enter, accept lockout, teleport to Upper Spire, kill Blood-Queen Lana'thel, exit
 4. Re-enter on **Heroic 25-player** (solo), teleport to Lich King, and defeat him
 
 ## Additional Services:
-### Quests:
+### Quests Share:
 | Reward | Command | Details |
 |---------|---------|---------|
-| <img src="https://camo.githubusercontent.com/e31f0b1a16c5f972003a84a5a1287e40d1677211f28930d439228d7c22f799f9/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f7370656c6c5f6e61747572655f6561727468656c656d656e74616c5f746f74656d2e6a7067" width="20" height="20"> Pebble Pet | `!Lost` | Quest Share: [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
-| <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Timeless Isle Port <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> | `!Timeless` | <img src="https://camo.githubusercontent.com/5ac8d94dc6d1ad9162150c944fad6f7936d46cf5a42a22cf58d5eb1aa40cb441/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f706f636b657477617463685f30312e6a7067" width="20" height="20"> Quest Share: [Journey to the Timeless Isle](https://www.wowhead.com/quest=33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
+| <img src="https://camo.githubusercontent.com/e31f0b1a16c5f972003a84a5a1287e40d1677211f28930d439228d7c22f799f9/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f7370656c6c5f6e61747572655f6561727468656c656d656e74616c5f746f74656d2e6a7067" width="20" height="20"> Pebble Pet | `!Lost` | [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
+| <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Timeless Isle Port <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> | `!Timeless` | <img src="https://camo.githubusercontent.com/5ac8d94dc6d1ad9162150c944fad6f7936d46cf5a42a22cf58d5eb1aa40cb441/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f706f636b657477617463685f30312e6a7067" width="20" height="20"> [Journey to the Timeless Isle](https://www.wowhead.com/quest=33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
