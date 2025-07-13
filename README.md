@@ -51,7 +51,7 @@
 4. Re-enter on **Heroic 25-player** (solo), teleport to Lich King, and defeat him
 
 ## Additional Services:
-### Quests Share:
+### Quest Share:
 | Reward | Command | Details |
 |---------|---------|---------|
 | <img src="https://camo.githubusercontent.com/e31f0b1a16c5f972003a84a5a1287e40d1677211f28930d439228d7c22f799f9/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f7370656c6c5f6e61747572655f6561727468656c656d656e74616c5f746f74656d2e6a7067" width="20" height="20"> Pebble Pet | `!Lost` | [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
