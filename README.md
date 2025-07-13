@@ -3,7 +3,7 @@
 ## :rocket: How It Works
 
 1. **I Provide Lockouts**  
-   - I share pre-cleared instance lockouts for efficient mount farming
+   - I share pre-cleared instance lockouts for efficient farming
    - All lockouts are prepared to the specified bosses
 
 2. **Request Access**  
@@ -16,7 +16,7 @@
 
 4. **Enjoy Efficient Mount Runs**  
    - Instantly access end-bosses without clearing entire instances
-   - Farm mounts with maximum time efficiency
+   - Farm with maximum time efficiency
 
 ## Available Lockouts:
 ### Raids:
@@ -26,6 +26,8 @@
 | Antorus, the Burning Throne | N/H | F'harg | <img src="https://camo.githubusercontent.com/93d75a92daf0edb9813f6010fd098a899181162c7dd613f35a7911fa79f25a38/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f66656c686f756e64335f736861646f775f666972652e6a7067" width="20" height="20"> [Antoran Charhound](https://www.wowhead.com/item=152816/antoran-charhound) |
 | Tomb of Sargeras | N/H | Mistress Sassz'ine | <img src="https://camo.githubusercontent.com/aac1bb06c6c2aa3429bb75dfcb643c364002c0c69726bf4f37d31a906a334b99/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f73657270656e746d6f756e745f677265656e2e6a7067" width="20" height="20"> [Abyss Worm](https://www.wowhead.com/item=143643/abyss-worm) |
 | The Nighthold | N/H | Gul'dan | <img src="https://camo.githubusercontent.com/da7d2c9a2a4f689e58e5e2ae670874ac96c929aac46435ddb60d0b9303dba74a/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f696e6665726e616c6d6f756e74677265656e2e6a7067" width="20" height="20"> [Living Infernal Core](https://www.wowhead.com/item=137574/living-infernal-core) |
+| Emerald Nightmare | H | Xavius | <img src="https://camo.githubusercontent.com/df5d90e640336f766f1d4ec883a45d818fce07b6332d2a5a84a11a0075f985d1/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6c6561746865725f7076706472756964676c61646961746f725f6f5f303173686f756c6465722e6a7067" width="20" height="20"> [The First Satyr's Spaulders](https://www.wowhead.com/item=141006/the-first-satyrs-spaulders)<br>*Note: Leather*|
+| Siege of Orgrimmar | N/H | Kor'kron Dark Shaman | <img src="https://camo.githubusercontent.com/282174ad929cdf2d9cd4de5fc3eb9f95bc3d54704f336d65f4047de4bed41a71/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f656e6767697a6d6f735f31382e6a7067" width="20" height="20"> [Kor'kron Shaman's Treasure](https://www.wowhead.com/item=105751/korkron-shamans-treasure)<br>*Note: Shaman Set*|
 | Ulduar | 25 | Yogg-Saron | <img src="https://camo.githubusercontent.com/9da3c5566cd89a42f83ec65367a7dda1db5ff5bdff029ab63206a985339940e8/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f656e6767697a6d6f735f30332e6a7067" width="20" height="20"> [Mimiron's Head](https://www.wowhead.com/item=45693/mimirons-head) |
 | Firelands | N/H | Alysrazor, Ragnaros | <img src="https://camo.githubusercontent.com/18cc68de29bd5bfe03bc8ccc86b45a1be678cb189b9eebcca6cb6b39f437e6c7/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f6162696c6974795f6d6f756e745f66697265726176656e676f646d6f756e742e6a7067" width="20" height="20"> [Flametalon of Alysrazor](https://www.wowhead.com/item=71665/flametalon-of-alysrazor)<br><img src="https://camo.githubusercontent.com/4113b99518196dde187473f4b89800afda66cad51a76329145c0eb5e895a6fce/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f6f72625f30352e6a7067" width="20" height="20"> [Smoldering Egg of Millagazor](https://www.wowhead.com/item=69224/smoldering-egg-of-millagazor) |
 | Black Temple | 25 | Illidan Stormrage | <img src="https://camo.githubusercontent.com/0eb083179d23666d969776be981e70ae751fe8d46ea5c9c4f628bc62a3e7b2e5/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f776561706f6e5f676c6176655f30312e6a7067" width="20" height="20"> [Warglaives of Azzinoth](https://www.wowhead.com/item=32837/warglaive-of-azzinoth)<br>*Warrior, Rogue, DK, Monk, DH* |
@@ -34,8 +36,8 @@
 | Instance | Difficulty | Boss | Reward |
 |----------|------------|------|--------|
 | Dawn of the Infinite | M | Chrono-Lord Deios | <img src="https://camo.githubusercontent.com/07130b6c943a31d36b3f530aa41b713839b6c614388bddb7250e4c040bdaa64b/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f7370656c6c5f7461696c6f725f6d6f756e747370656564757030312e6a7067" width="20" height="20"> [Reins of the Quantum Courser](www.wowhead.com/item=208216/reins-of-the-quantum-courser) |
-| Tazavesh: The Veiled Market | M | So'leah | <img src="https://camo.githubusercontent.com/6721d058205616277b5c6aad3b8e7aff89a25566e1c97a9fef97fb3da1ab5d7f/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f62726f6b65726d6f756e745f6461726b2e6a7067" width="20" height="20"> [Cartel Master's Gearglider](https://www.wowhead.com/item=186638/cartel-masters-gearglider) |
-| Return to Karazhan | M | Attumen the Huntsman | <img src="https://camo.githubusercontent.com/856e4336e47ef0636a70ad3ae8e5d86ffbfeed4d4557e2b8516bdb43746473b4/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f736b656c6574616c776172686f7273655f626c61636b2e6a7067" width="20" height="20"> [Midnight's Eternal Reins](https://www.wowhead.com/item=142236/midnights-eternal-reins) |
+| Tazavesh: The Veiled Market | M | So'leah | <img src="https://camo.githubusercontent.com/6721d058205616277b5c6aad3b8e7aff89a25566e1c97a9fef97fb3da1ab5d7f/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f62726f6b65726d6f756e745f6461726b2e6a7067" width="20" height="20"> [Cartel Master's Gearglider](https://www.wowhead.com/item=186638/cartel-masters-gearglider)<br>*Note: Take middle Portal in first Boss room* |
+| Return to Karazhan | M | Attumen the Huntsman | <img src="https://camo.githubusercontent.com/856e4336e47ef0636a70ad3ae8e5d86ffbfeed4d4557e2b8516bdb43746473b4/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f736b656c6574616c776172686f7273655f626c61636b2e6a7067" width="20" height="20"> [Midnight's Eternal Reins](https://www.wowhead.com/item=142236/midnights-eternal-reins)<br>*Note: Go left, follow the right Wall and jump down*|
 
 ## <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Alliance-Specific Lockouts <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;">
 ### Raids:
