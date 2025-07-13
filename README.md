@@ -14,7 +14,7 @@
    - Use `!sharing` to receive my available lockouts  
    - Specify difficulty: `!hc` for heroic, `!nhc` for normal (default)
 
-4. **Enjoy Efficient Mount Runs**  
+4. **Enjoy Efficient Runs**  
    - Instantly access end-bosses without clearing entire instances
    - Farm with maximum time efficiency
 
