@@ -1,6 +1,6 @@
 # <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> SunaShare <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;">
 
-## :rocket: How It Works (For Lockout Sharing)
+## :rocket: How It Works
 
 1. **I Provide Lockouts**  
    - I share pre-cleared instance lockouts for efficient mount farming
@@ -37,11 +37,6 @@
 | Tazavesh: The Veiled Market | M | So'leah | <img src="https://camo.githubusercontent.com/6721d058205616277b5c6aad3b8e7aff89a25566e1c97a9fef97fb3da1ab5d7f/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f62726f6b65726d6f756e745f6461726b2e6a7067" width="20" height="20"> [Cartel Master's Gearglider](https://www.wowhead.com/item=186638/cartel-masters-gearglider) |
 | Return to Karazhan | M | Attumen the Huntsman | <img src="https://camo.githubusercontent.com/856e4336e47ef0636a70ad3ae8e5d86ffbfeed4d4557e2b8516bdb43746473b4/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f736b656c6574616c776172686f7273655f626c61636b2e6a7067" width="20" height="20"> [Midnight's Eternal Reins](https://www.wowhead.com/item=142236/midnights-eternal-reins) |
 
-### Additional Services:
-| Service | Command | Details |
-|---------|---------|---------|
-| <img src="https://camo.githubusercontent.com/e31f0b1a16c5f972003a84a5a1287e40d1677211f28930d439228d7c22f799f9/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f7370656c6c5f6e61747572655f6561727468656c656d656e74616c5f746f74656d2e6a7067" width="20" height="20"> Pebble Pet | `!Lost` | Quest Share: [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
-
 ## <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Alliance-Specific Lockouts <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;">
 ### Raids:
 | Instance | Difficulty | Boss | Reward |
@@ -55,7 +50,9 @@
 3. Re-enter, accept lockout, teleport to Upper Spire, kill Blood-Queen Lana'thel, exit
 4. Re-enter on **Heroic 25-player** (solo), teleport to Lich King, and defeat him
 
-### Additional Services:
-| Service | Command | Details |
+## Additional Services:
+### Quests:
+| Reward | Command | Details |
 |---------|---------|---------|
-| Timeless Isle Port | `!Timeless` | <img src="https://camo.githubusercontent.com/5ac8d94dc6d1ad9162150c944fad6f7936d46cf5a42a22cf58d5eb1aa40cb441/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f706f636b657477617463685f30312e6a7067" width="20" height="20"> Quest Share: [Journey to the Timeless Isle](https://www.wowhead.com/quest=33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
+| <img src="https://camo.githubusercontent.com/e31f0b1a16c5f972003a84a5a1287e40d1677211f28930d439228d7c22f799f9/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f7370656c6c5f6e61747572655f6561727468656c656d656e74616c5f746f74656d2e6a7067" width="20" height="20"> Pebble Pet | `!Lost` | Quest Share: [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
+| <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Timeless Isle Port <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> | `!Timeless` | <img src="https://camo.githubusercontent.com/5ac8d94dc6d1ad9162150c944fad6f7936d46cf5a42a22cf58d5eb1aa40cb441/68747470733a2f2f776f772e7a616d696d672e636f6d2f696d616765732f776f772f69636f6e732f6c617267652f696e765f6d6973635f706f636b657477617463685f30312e6a7067" width="20" height="20"> Quest Share: [Journey to the Timeless Isle](https://www.wowhead.com/quest=33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
