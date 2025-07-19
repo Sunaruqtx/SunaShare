@@ -51,7 +51,7 @@
 
 ### ICC Lockout Instructions:
 1. Set raid to **Heroic 25-player** and kill Lord Marrowgar (solo), then exit
-2. Whisper `!sharing` to receive my ICC lockout **Normal 25-Player**
+2. Whisper `!sharing` to receive my ICC lockout **Normal 10-Player**
 3. Re-enter, accept lockout, teleport to Upper Spire, kill Blood-Queen Lana'thel, exit
 4. Re-enter on **Heroic 25-player** (solo), teleport to Lich King, and defeat him
 
