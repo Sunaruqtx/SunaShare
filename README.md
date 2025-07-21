@@ -54,7 +54,8 @@ If im missing a Lockout that provides:
  - a Mount
  - a Pet
  - rare Transmog
- - a shareable Quest that has benefits
+
+or a shareable Quest that has benefits
 
 then message me on Discord **Sunaruqtx**
 
@@ -64,7 +65,7 @@ The Following Instances cant be shared:
  - Mogu'shan Vaults
  - Throne of Thunder
 
-Its also *not* possible to share Mythic Raid Lockouts or regular dungeons due to Blizzard's restrictions
+Its also *not* possible to share **Mythic Raid Lockouts** or regular dungeons due to Blizzard's restrictions
 
 Only raids & Mega Dungeons with flexible lockjouts are shareable!
 </details>
