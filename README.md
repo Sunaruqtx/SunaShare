@@ -30,8 +30,9 @@ Im usually Online between 9 AM - 10 PM Server Time but you should check the Comm
 <summary>🔴"No player named Sunashare-Blackrock is currently playing"</summary>
 <br>
 If you get this message that means:
- - You typed the Name wrong (its case sensitive sometimes?)
- - You are Horde
+
+  - You typed the Name wrong (its case sensitive sometimes?)
+  - You are Horde
 
 in both cases you could just join the Community like mentioned above to fix this
 </details>
