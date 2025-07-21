@@ -50,7 +50,7 @@ If you dont have a Blackrock Character you can create an allied Race Character a
 <details>
 <summary>🔓 Can you add ...</summary>
 <br>
-If im missing something thats shareable and provides:
+If im missing something thats shareable and provides:<br><br>
 
  - a Mount
  - a Pet
@@ -59,8 +59,11 @@ If im missing something thats shareable and provides:
 
 then message me on Discord **Sunaruqtx**
 
+________________________________
+
 **⚠️ Limitations:**<br>
 The Following Instances cant be shared:
+
  - Dragon Soul
  - Mogu'shan Vaults
  - Throne of Thunder
