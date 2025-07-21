@@ -19,6 +19,56 @@
    - Instantly access end-bosses without clearing entire instances
    - Farm with maximum time efficiency
 
+## ❓ FAQ
+
+<details>
+   <summary>🟢 When are you online?</summary>
+<br>
+Im usually Online between 9 AM - 10 PM Server Time but you should check the Community
+</details>
+<details>
+<summary>🔴"No player named Sunashare-Blackrock is currently playing"</summary>
+<br>
+If you get this message that means:
+ - You typed the Name wrong (its case sensitive sometimes?)
+ - You are Horde
+
+in both cases you could just join the Community like mentioned above to fix this
+</details>
+<details>
+<summary>💰 You doing this for Free?</summary>
+<br>
+Yes im doing this for Free!
+
+if you want to help me keep the Account alife you are free to tip me<br>
+<img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Sunacraft-Blackrock<br>
+<img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Sunashare-Blackrock<br>
+
+If you dont have a Blackrock Character you can create an alliedrace Character and use your <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20" style="object-fit: contain;"> [Warband Bank](https://www.wowhead.com/spell=460905/warband-bank-distance-inhibitor)
+</details>
+<details>
+<summary>🔓 Can you add ...</summary>
+<br>
+If im missing a Lockout that provides:
+
+ - a Mount
+ - a Pet
+ - rare Transmog
+ - a shareable Quest that has benefits
+
+then message me on Discord **Sunaruqtx**
+
+**⚠️ Limitations:**<br>
+The Following Instances cant be shared:
+ - Dragon Soul
+ - Mogu'shan Vaults
+ - Throne of Thunder
+
+Its also *not* possible to share Mythic Raid Lockouts or regular dungeons due to Blizzard's restrictions
+
+Only raids & Mega Dungeons with flexible lockjouts are shareable!
+</details>
+
 ## Available Lockouts:
 ### Raids:
 | Instance | Difficulty | Boss | Reward |
