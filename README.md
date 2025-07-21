@@ -67,7 +67,7 @@ The Following Instances cant be shared:
 
 Its also *not* possible to share **Mythic Raid Lockouts** or regular dungeons due to Blizzard's restrictions
 
-Only raids & Mega Dungeons with flexible lockjouts are shareable!
+Only raids & Mega Dungeons with flexible lockouts are shareable!
 </details>
 
 ## Available Lockouts:
