@@ -45,18 +45,17 @@ if you want to help me keep the Account alife you are free to tip me<br>
 <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Sunacraft-Blackrock<br>
 <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Sunashare-Blackrock<br>
 
-If you dont have a Blackrock Character you can create an alliedrace Character and use your <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20" style="object-fit: contain;"> [Warband Bank](https://www.wowhead.com/spell=460905/warband-bank-distance-inhibitor)
+If you dont have a Blackrock Character you can create an allied Race Character and use your <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20" style="object-fit: contain;"> [Warband Bank](https://www.wowhead.com/spell=460905/warband-bank-distance-inhibitor)
 </details>
 <details>
 <summary>🔓 Can you add ...</summary>
 <br>
-If im missing a Lockout that provides:
+If im missing something thats shareable and provides:
 
  - a Mount
  - a Pet
  - rare Transmog
-
-or a shareable Quest that has benefits
+ - something special
 
 then message me on Discord **Sunaruqtx**
 
