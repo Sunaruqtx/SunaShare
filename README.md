@@ -11,6 +11,10 @@
    - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Community ID: `RKpPmDyu03Y` or `pPdmgVwCmzd`<br>
      *J (Default Keybind) -> Join or Creaty Community -> Enter the Code*
 
+     Easy Access Macro:<br>
+     `/run local t="Sunashare-Blackrock"; local m=(UnitInParty(t) or UnitInRaid(t)) and "+" or "!sharing"; SendChatMessage(m, "WHISPER", nil, t)`<br>
+     *whispers !sharing if not in Group or + in Group*
+     
 3. **Receive Lockouts**  
    - Use `!sharing` to receive my available lockouts  
    - Specify difficulty: `!hc` for heroic, `!nhc` for normal (default)
