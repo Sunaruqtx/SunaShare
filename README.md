@@ -61,6 +61,7 @@ __________________________________________________
 - No Mythic Raids
 - No regular Dungeons
 - No Dragon Soul, MV, or ToT
+
 Only flexible raid/mega-dungeon lockouts can be shared!
 
 </details>
