@@ -56,7 +56,9 @@ No Blackrock character? Create an Allied Race alt and use the <img src="https://
 <summary>🔓 Can you add ...</summary>
 <br>
 If something mount/pet/transmog-related is missing and shareable 
-message me on Discord: **Sunaruqtx**.
+
+message me on Discord: **Sunaruqtx** 
+
 __________________________________________________
 <br><br>
 
