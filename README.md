@@ -60,7 +60,6 @@ If something mount/pet/transmog-related is missing and shareable
 message me on Discord: **Sunaruqtx** 
 
 __________________________________________________
-<br><br>
 
 ⚠️ **Limitations:**
 
