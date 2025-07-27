@@ -41,6 +41,16 @@ That usually means:
 Fix: Join the community instead as explained above.
 </details>
 <details>
+   <summary>🧑‍🤝‍🧑 Can i bring a Friend?</summary>
+
+<br>
+Yes, you can!
+
+Either suggest your Friends or request group leader by typing "++" or "!lead"
+
+*remember you need to be inside the Instance before requesting lead*
+</details>
+<details>
 <summary>💰 You doing this for Free?</summary>
 <br>
 Yes, totally free.
