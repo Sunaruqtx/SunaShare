@@ -8,8 +8,16 @@
 
 2. **Request Access**  
    - **Alliance**: `/w Sunashare-Blackrock !sharing`  
-   - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Community ID: `RKpPmDyu03Y` or `pPdmgVwCmzd`<br>
+   - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Join a Community!
+     
      *J (Default Keybind) -> Join or Creaty Community -> Enter the Code*
+
+     IDs:
+     * `MpjoWNOIAgz` 
+     * `Z90ryXaCMM`
+     * `RKpPmDyu03Y`
+     * `pPdmgVwCmzd`
+     * `WZppjq4HGWp`
 
      Easy Access Macro:<br>
      `/run local t="Sunashare-Blackrock"; local m=(UnitInParty(t) or UnitInRaid(t)) and "+" or "!sharing"; SendChatMessage(m, "WHISPER", nil, t)`<br>
