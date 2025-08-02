@@ -18,6 +18,7 @@
      * `RKpPmDyu03Y`
      * `pPdmgVwCmzd`
      * `WZppjq4HGWp`
+     * `jnL7X54t4Me`
 
      Easy Access Macro:<br>
      `/run local t="Sunashare-Blackrock"; local m=(UnitInParty(t) or UnitInRaid(t)) and "+" or "!sharing"; SendChatMessage(m, "WHISPER", nil, t)`<br>
