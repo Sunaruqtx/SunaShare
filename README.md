@@ -37,7 +37,7 @@
 <details>
    <summary>🟢 When are you online?</summary>
 <br>
-I'm usually online from 09:00 to 22:00 server time. Check the community to confirm.
+Check the [Achievement Hunter Discord](https://discord.gg/achievements) for my Post in #eu-chat-lfg or the Communities mentioned above
 </details>
 <details>
 <summary>🔴"No player named Sunashare-Blackrock is currently playing"</summary>
