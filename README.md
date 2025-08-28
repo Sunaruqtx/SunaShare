@@ -37,6 +37,7 @@
 <details>
    <summary>🟢 When are you online?</summary>
 <br>
+
 Check the [Achievement Hunter Discord](https://discord.gg/achievements) for my Post in #eu-chat-lfg or the Communities mentioned above
 </details>
 <details>
