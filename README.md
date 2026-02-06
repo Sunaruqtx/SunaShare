@@ -71,6 +71,9 @@ Want to support me? Tips are welcome:
 * <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="20" height="20"> Sunashare-Blackrock
 
 No Blackrock character? Create an Allied Race alt and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20"> [Warband Bank](https://www.wowhead.com/spell=460905/warband-bank-distance-inhibitor).
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sunaruqtx)
 </details>
 <details>
 <summary>🔓 Can you add ...</summary>
