@@ -153,7 +153,7 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 ### Neighborhood Share:
 | Reward | Command | Details |
 |---------|---------|---------|
-| Housing Decor | `!Home` | Inving you into my Neighborhood to buy Housing Decor from my Endevour Progress|
+| Housing Decor | `!Home` | Inving you into my Neighborhood to buy Housing Decor from my Endevour Progress <br> *more in my Discord Post or ingame after using the Command* |
 
 ## About Me:
 **Discord:** Sunaruqtx<br>
