@@ -150,6 +150,11 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 | <img src="https://wow.zamimg.com/images/wow/icons/large/spell_nature_earthelemental_totem.jpg" width="20" height="20"> Pebble Pet | `!Lost` | [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
 | <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Timeless Isle Port <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> | `!Timeless` | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_pocketwatch_01.jpg" width="20" height="20"> [Journey to the Timeless Isle](https://www.wowhead.com/quest=33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
 
+### Neighborhood Share:
+| Reward | Command | Details |
+|---------|---------|---------|
+| Housing Decor | `!Home` | Inving you into my Neighborhood to buy Housing Decor from my Endevour Progress|
+
 ## About Me:
 **Discord:** Sunaruqtx<br>
 **Twitch:** [Sunaruqtx](https://www.twitch.tv/sunaruqtx)<br>
