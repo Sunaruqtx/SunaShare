@@ -8,7 +8,7 @@
 
 2. **Request Access**  
    - **Alliance**: `/w Sunashare-Blackrock !sharing`  
-   - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Join a Community!
+   - **Horde**: <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="20" height="20" style="object-fit: contain;"> Join a Community! and then `/w Sunashare-Blackrock !sharing`  
      
      *J (Default Keybind) -> Join or Creaty Community -> Enter the Code*
 
