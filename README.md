@@ -158,6 +158,6 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 ## About Me:
 **Discord:** Sunaruqtx<br>
 **Twitch:** [Sunaruqtx](https://www.twitch.tv/sunaruqtx)<br>
-**Raider IO:** [Sunaru](https://raider.io/characters/eu/blackrock/Sunadari)
+**Raider IO:** [Sunaru](https://raider.io/user/Sunaruqtx)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sunaruqtx)
