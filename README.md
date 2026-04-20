@@ -149,6 +149,7 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 |---------|---------|---------|
 | <img src="https://wow.zamimg.com/images/wow/icons/large/spell_nature_earthelemental_totem.jpg" width="20" height="20"> Pebble Pet | `!Lost` | [Lost in the Deeps](https://www.wowhead.com/quest=26710/lost-in-the-deeps)<br> *needs Therazane daylies to be unlocked*|
 | <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> Timeless Isle Port <img src="https://wow.zamimg.com/images/wow/icons/large/ui_allianceicon-round.jpg" width="25" height="25" style="object-fit: contain;"> | `!Timeless` | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_pocketwatch_01.jpg" width="20" height="20"> [Journey to the Timeless Isle](https://www.wowhead.com/quest=33231/journey-to-the-timeless-isle)<br>*Abandon quest after using item!* |
+| <img src= "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_covenant_renown.jpg" width="20" height="20"> Midnight Renown Gear | `!Renown` | [Courting Success](https://www.wowhead.com/quest=93930/courting-success), [An Abundance of Wealth](https://www.wowhead.com/quest=93931/an-abundance-of-wealth), [Legendary Prosperity](https://www.wowhead.com/quest=93932/legendary-prosperity), [Guarded Treasures](https://www.wowhead.com/quest=93933/guarded-treasures)<br> *need to finish every Event once*
 
 ### Neighborhood Share:
 | Reward | Command | Details |
