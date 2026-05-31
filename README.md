@@ -13,13 +13,13 @@
      *J (Default Keybind) -> Join or Creaty Community -> Enter the Code*
 
      IDs:
+     * `pP7xEJvCnNd`
      * `MpjoWNOIAgz` 
      * `Z90ryXaCMM`
      * `RKpPmDyu03Y`
      * `pPdmgVwCmzd`
      * `WZppjq4HGWp`
      * `jnL7X54t4Me`
-     * `pP7xEJvCnNd`
      
 3. **Receive Lockouts**  
    - Use `!sharing` to receive my available lockouts  
