@@ -13,7 +13,7 @@
      *J (Default Keybind) -> Join or Creaty Community -> Enter the Code*
 
      IDs:
-     * `pP7xEJvCnNd`
+     * `pP7xEJvC0j3`
      * `MpjoWNOIAgz` 
      * `Z90ryXaCMM`
      * `RKpPmDyu03Y`
