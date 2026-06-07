@@ -85,7 +85,7 @@ __________________________________________________
 
 - No Mythic Raids
 - No regular Dungeons
-- No Dragon Soul, MV, or ToT
+- No Dragon Soul, Mogu'shan Vaults, or Throne of Thunder
 
 Only flexible raid/mega-dungeon lockouts can be shared!
 
