@@ -135,6 +135,8 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 ## Transmog, Pets & Toys
 | Instance | Difficulty | Boss | Reward |
 |----------|------------|------|--------|
+| THe Venemous Abyss | H | The Coiled Altar + Ula'tek  | *just the Lockout* |
+| The Voidspire | H | Crown of the Cosmos  | *just the Lockout* |
 | Manaforge Omega | N/H | Dimensius, the All-Devouring  | <img src="https://wow.zamimg.com/images/wow/icons/large/spell_holy_circleofrenewal_shadow.jpg" width="20" height="20"> [Cosmic Hearthstone](https://www.wowhead.com/item=246565/cosmic-hearthstone) |
 | Amirdrassil, the Dream's Hope | N/H | Fyrakk, the Blazing  | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordeathknight.jpg" width="20" height="20"> [Renewed Proto-Drake: Embodiment of the Blazing](https://www.wowhead.com/item=210536/renewed-proto-drake-embodiment-of-the-blazing) |
 | Aberrus, The Shadowed Crucible | N/H | Scalecommander Sarkareth  | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majormage.jpg" width="20" height="20"> [Highland Drake: Embodiment of the Hellforged](https://www.wowhead.com/item=205876/highland-drake-embodiment-of-the-hellforged) |
