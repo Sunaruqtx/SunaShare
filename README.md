@@ -162,7 +162,7 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 | Housing Decor | `!Home` | Inving you into my Neighborhood to buy Housing Decor from my Endevour Progress <br> *get Progress and Endevour Status ingame after using the Command* |
 
 ## About Me:
-**Discord:** Sunaruqtx<br>
+**Discord:** Sunaruqtx - [Lockout Sharing Discord](https://discord.gg/2DA9XTJWed)<br>
 **Twitch:** [Sunaruqtx](https://www.twitch.tv/sunaruqtx)<br>
 **Raider IO:** [Sunaru](https://raider.io/user/Sunaruqtx)
 
