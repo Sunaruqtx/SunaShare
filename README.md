@@ -36,7 +36,7 @@
    <summary>🟢 When are you online?</summary>
 <br>
 
-Check the [Achievement Hunter Discord](https://discord.gg/achievements) for my Post in #eu-chat-lfg or the Communities mentioned above
+Check the [SunaShare - Lockout Sharing Discord](https://discord.gg/2DA9XTJWed) my online status will be updated there, otherwise checking ingame communities works too
 </details>
 <details>
 <summary>🔴"No player named Sunashare-Blackrock is currently playing"</summary>
