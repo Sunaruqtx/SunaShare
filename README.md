@@ -101,7 +101,7 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 | The Voidspire | H | Crown of the Cosmos
 
 
-### 🔥 Mounts:
+### Mounts:
 
 **Raids:**
 
