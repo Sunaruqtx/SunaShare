@@ -94,7 +94,7 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 
 ## Available Lockouts:
 
-### Progress Lockouts
+### Bonusroll - Progress
 | Instance | Difficulty | Boss | Reward |
 |----------|------------|------|--------|
 | The Venomous Abyss | H | The Coiled Altar + Ula'tek  | *just the Lockout* |
