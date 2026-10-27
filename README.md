@@ -94,6 +94,13 @@ Only flexible raid/mega-dungeon lockouts can be shared!
 
 ## Available Lockouts:
 
+### Progress Lockouts
+| Instance | Difficulty | Boss | Reward |
+|----------|------------|------|--------|
+| The Venomous Abyss | H | The Coiled Altar + Ula'tek  | *just the Lockout* |
+| The Voidspire | H | Crown of the Cosmos  | *just the Lockout* |
+
+
 ### 🔥 Mounts:
 
 **Raids:**
