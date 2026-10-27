@@ -57,6 +57,7 @@ Yes, you can!
 Either suggest your Friends or request group leader by typing "++" or "!lead"
 
 *remember you need to be outside the Instance before requesting lead*
+
 *you can open the LFG after you got lead - the Lockout persists until the group disbanded*
 </details>
 <details>
